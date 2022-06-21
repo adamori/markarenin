@@ -1,4 +1,4 @@
-﻿<h1 align="center">Hi 👋, I'm markarenin</h1>
+﻿<h1 align="center">Hi 👋, I'm Mark Karenin</h1>
 <h3 align="center">Just a man. I play with zeros and ones. I write movies, games, programs and in general everything my humble soul wants. Smiley faces because I can✈️🍀🔥🇪🇪</h3>
 
 - 🔭 I’m currently working on [Atta Eesti Keel](https://github.com/markarenin/aek)
