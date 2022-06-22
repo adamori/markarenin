@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://t.me/paneelmaja" target="blank"><img align="center" src="https://gist.github.com/m8rge/4c2b36369c9f936c02ee883ca8ec89f1?short_path=d272fb6#file-telegram-single-path-24px-svg" alt="Telegram: @paneelmaja" height="30" width="40" /></a>
+<a href="https://t.me/paneelmaja" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/telegram/telegram.svg" alt=" Telegram: @paneelmaja" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
