@@ -1,5 +1,6 @@
 ﻿<h1 align="center">Hi 👋, I'm Mark Karenin</h1>
-<h3 align="center">I play with zeros and ones. I write movies, games, programs and in general everything my humble soul wants. Smiley faces because I can✈️🍀🔥🇪🇪</h3>
+<h3 align="center">Просто чел. Играюсь с ноликами и единичками. Пишу кино, игры, программы и вообще всё что скромной душеньке хочется. Смайлики потому что могу✈️🍀🔥🇪🇪
+</h3>
 
 - 🧑‍💻 Worked at MTU VitaTiim on the [Reflector app](https://apps.apple.com/ee/app/reflector-vitatiim/id1634375271) for iOS & Android (Flutter Developer)
 - 🧑‍💻 Working at Narva College of University of Tartu on the Child Speech Corpus (Back-end Developer, Python, Django)
