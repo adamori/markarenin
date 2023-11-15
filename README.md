@@ -1,12 +1,12 @@
 ﻿<h1 align="center">Hi 👋, I'm Adam Alidibirov</h1>
-<h3 align="center">Просто чел. Играюсь с ноликами и единичками. Пишу кино, игры, программы и вообще всё что скромной душеньке хочется. Смайлики потому что могу✈️🍀🔥🇪🇪
+<h3 align="center">As a software developer, I have led and contributed to various projects that create user-friendly solutions for real problems.✈️🍀🔥🇪🇪
 </h3>
 
 - 🧑‍💻 Worked at MTU VitaTiim on the [Reflector app](https://apps.apple.com/ee/app/reflector-vitatiim/id1634375271) for iOS & Android (Flutter Developer)
 - 🧑‍💻 Working at Narva College of University of Tartu on the Child Speech Corpus (Back-end Developer, Python, Django)
-- 🔭 I’m currently working on [Atta Eesti Keel](https://github.com/markarenin/aek)
+- 🔭 I’m currently working on [Teto: Estonian learning companion](https://teto.ee)
 
-- 💬 Ask me about **django, flutter**
+- 💬 Ask me about **Python, JS, Flutter(Dart)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
