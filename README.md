@@ -2,8 +2,6 @@
 <h3 align="center">As a software developer, I have led and contributed to various projects that create user-friendly solutions for real problems.✈️🍀🔥🇪🇪
 </h3>
 
-- 🧑‍💻 Worked at MTU VitaTiim on the [Reflector app](https://apps.apple.com/ee/app/reflector-vitatiim/id1634375271) for iOS & Android (Flutter Developer)
-- 🧑‍💻 Working at Narva College of University of Tartu on the Child Speech Corpus (Back-end Developer, Python, Django)
 - 🔭 I’m currently working on [Teto: Estonian learning companion](https://teto.ee)
 
 - 💬 Ask me about **Python, JS, Flutter(Dart)**
