@@ -1,5 +1,4 @@
 ﻿<h1 align="center">Hi 👋, I'm Adam Alidibirov</h1>
-<h3 align="center">As a software developer, I have led and contributed to various projects that create user-friendly solutions for real problems.✈️🍀🔥🇪🇪
 </h3>
 
 - 🔭 I’m currently working on [Teto: Estonian learning companion](https://teto.ee)
